@@ -1,0 +1,18 @@
+.chatbot-toggle-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  .chatbot-position {
+    position: fixed;
+    bottom: 100px; /* un peu en dessous du bouton */
+    right: 60px; /* un peu à droite du coin droit */
+    background-color: bisque;
+  }
+  .react-chatbot-kit-chat-container
+  {
+    position: fixed;
+    bottom: 100px; /* un peu en dessous du bouton */
+    right: 60px; /* un peu à droite du coin droit */
+    background-color: bisque;
+  }
